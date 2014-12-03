@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="POSWEBDEMO">
+    <wb-module deploy-name="Pos_Web_Demo">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="POSWEBDEMO"/>
-        <property name="java-output-path" value="/POSWEBDEMO/build/classes"/>
+        <property name="java-output-path" value="/Pos_Web_Demo/build/classes"/>
+        <property name="context-root" value="Pos_Web_Demo"/>
     </wb-module>
 </project-modules>
