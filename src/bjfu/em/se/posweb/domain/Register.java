@@ -3,7 +3,6 @@ package bjfu.em.se.posweb.domain;
 import bjfu.em.se.posweb.domain.exceptions.PaymentNotEnoughException;
 import bjfu.em.se.posweb.domain.exceptions.ProductNotFoundException;
 import bjfu.em.se.posweb.domain.exceptions.WrongPaymentTypeException;
-import bjfu.em.se.posweb.domain.payment.PaymentType;
 
 /***
  * 收款台类

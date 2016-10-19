@@ -11,7 +11,6 @@ import bjfu.em.se.posweb.domain.payment.CashPayment;
 import bjfu.em.se.posweb.domain.payment.CheckPayment;
 import bjfu.em.se.posweb.domain.payment.CreditCardPayment;
 import bjfu.em.se.posweb.domain.payment.Payment;
-import bjfu.em.se.posweb.domain.payment.PaymentType;
 
 /**
  * 销售类

@@ -2,7 +2,6 @@ package bjfu.em.se.posweb.ui;
 
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;
-import javax.servlet.annotation.WebListener;
 
 import bjfu.em.se.posweb.domain.ProductCatalog;
 
